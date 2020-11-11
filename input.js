@@ -78,16 +78,6 @@ module.exports = {
       key: "HanwhaTotal-BI518",
     },
     {
-      displayname: "BI519",
-      tag: "HanwhaTotal",
-      key: "HanwhaTotal-BI519",
-    },
-    {
-      displayname: "BI530",
-      tag: "HanwhaTotal",
-      key: "HanwhaTotal-BI530",
-    },
-    {
       displayname: "BI616",
       tag: "HanwhaTotal",
       key: "HanwhaTotal-BI616",
@@ -101,16 +91,6 @@ module.exports = {
       displayname: "BI750",
       tag: "HanwhaTotal",
       key: "HanwhaTotal-BI750",
-    },
-    {
-      displayname: "BI850",
-      tag: "HanwhaTotal",
-      key: "HanwhaTotal-BI850",
-    },
-    {
-      displayname: "BI961",
-      tag: "HanwhaTotal",
-      key: "HanwhaTotal-BI961",
     },
     {
       displayname: "BI970",
@@ -163,85 +143,55 @@ module.exports = {
   Filler: [
     {
       displayname: "Filler TALC Jetfine 3CA",
-      tag: "F",
+      tag: "",
       key: "F-TJ3CA",
     },
     {
       displayname: "Filler TALC KCM6300",
-      tag: "F",
+      tag: "",
       key: "F-TK6300",
     },
     {
       displayname: "Filler Whisker WS-1CY",
-      tag: "F",
+      tag: "",
       key: "F-WW-1CY",
     },
     {
       displayname: "Filler Wollastonite M-1250",
-      tag: "F",
+      tag: "",
       key: "F-WM-1250",
     },
     {
       displayname: "Filler TALC 3000c",
-      tag: "F",
+      tag: "",
       key: "F-T3000",
     },
   ],
   Additive: [
     {
       displayname: "Add AO (1010+168)",
-      tag: "A",
+      tag: "",
       key: "A-AO",
     },
     {
       displayname: "Add AO AO-24(송원)",
-      tag: "A",
+      tag: "",
       key: "A-AA24",
     },
     {
       displayname: "Add GMS",
-      tag: "A",
+      tag: "",
       key: "A-GMS",
     },
     {
       displayname: "Add MB 50%(PP base, L사)",
-      tag: "A",
+      tag: "",
       key: "A-MB50",
     },
     {
       displayname: "Add MB DMG CF01(Wilmar, GMS95%, 서현화학)",
-      tag: "A",
+      tag: "",
       key: "A-MBD",
-    },
-    {
-      displayname: "Add MB LA402XP(Adeka)",
-      tag: "A",
-      key: "A-MBL",
-    },
-    {
-      displayname: "Add MB NA-960",
-      tag: "A",
-      key: "A-MBN",
-    },
-    {
-      displayname: "Add MB NPK(16%, MI=50)",
-      tag: "A",
-      key: "A-MBNPK",
-    },
-    {
-      displayname: "Add MB 선일(3800 base)",
-      tag: "A",
-      key: "A-MBS",
-    },
-    {
-      displayname: "Add PA FinaWax",
-      tag: "A",
-      key: "A-PAF",
-    },
-    {
-      displayname: "Add PA SLIP 250H",
-      tag: "A",
-      key: "A-PA250",
     },
   ],
 };
