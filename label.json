@@ -1,0 +1,15 @@
+[
+  { "name": "Melt Index ", "unit ": "2.16kg", "abbr": " 230℃" },
+  { "name": "Tensile Strength", "unit ": "MPa", "abbr": "TS" },
+  { "name": "Tensile Elongation ", "unit ": "%", "abbr": "TE" },
+  { "name": "Flexural Modulus ", "unit ": "MPa", "abbr": "FM" },
+  { "name": "Flexural Strength", "unit ": "MPa", "abbr": "FS" },
+  { "name": "IZOD Impact Strength 23", "unit ": "23℃", "abbr": " 1/4\"" },
+  { "name": "IZOD Impact Strength -30", "unit ": "(-)30℃", "abbr": " 1/4\"" },
+  { "name": "Charpy Impact 23", "unit ": "MPa", "abbr": "CI-23" },
+  { "name": "Charpy Impact -30", "unit ": "MPa", "abbr": "CI-30" },
+  { "name": "Charpy Impact -20", "unit ": "MPa", "abbr": "CI-20" },
+  { "name": "Shrinkage\n(1/1000)", "unit ": "Total ", "abbr": "SH" },
+  { "name": "Heat Detortion Temp.", "unit ": "℃", "abbr": "HDT" },
+  { "name": "Density ", "unit ": "g/cc", "abbr": "DS" }
+]
