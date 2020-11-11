@@ -21,6 +21,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/get.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "play",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/test.js"
         }
     ]
 }
